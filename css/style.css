@@ -1,0 +1,150 @@
+html, body{
+    height: 100%;
+}
+
+a{
+    text-decoration: none !important;
+}
+.main-container{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+#text-capsule{
+
+}
+p{
+    font-family: "Bebas Neue", Serif;
+}
+
+#why{
+
+}
+#why-text{
+    color: white;
+    font-size: 8rem;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #B071FC,
+                 0 0 20px #B071FC,
+                 0 0 40px #B071FC,
+                 0 0 80px #B071FC,
+                 0 0 120px #B071FC;
+
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#why-text:hover{
+    opacity: 0.7;
+}
+
+#who-text{
+    color: white;
+    font-size: 6rem;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #C28FFF,
+    0 0 20px #C28FFF,
+    0 0 40px #C28FFF,
+    0 0 80px #C28FFF,
+    0 0 120px #C28FFF;
+
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+
+}
+
+#who-text:hover{
+    opacity: 0.7;
+}
+#how-text{
+    color: white;
+    font-size: 5rem;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #D0B0F6,
+    0 0 20px #D0B0F6,
+    0 0 40px #D0B0F6,
+    0 0 80px #D0B0F6,
+    0 0 120px #D0B0F6;
+
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+
+}
+#how-text:hover{
+    opacity: 0.7;
+}
+#huh-text{
+    color: white;
+    font-size: 4.5rem;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #DDC3FC,
+    0 0 20px #DDC3FC,
+    0 0 40px #DDC3FC,
+    0 0 80px #DDC3FC,
+    0 0 120px #DDC3FC;
+
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+
+}
+#huh-text:hover{
+    opacity: 0.7;
+}
+#what-text{
+    color: #e2d6ea;
+    font-size: 2.5rem;
+    /*font-style: italic;*/
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 10px #DDC3FC,
+    0 0 20px #DDC3FC,
+    0 0 40px #DDC3FC,
+    0 0 80px #DDC3FC,
+    0 0 120px #DDC3FC;
+
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+}
+#what-text:hover{
+    opacity: 0.7;
+}
+footer{
+    position: absolute;
+    height: 30px;
+    bottom:0;
+    width: 100%;
+}
+#footer-container{
+    height: inherit;
+    width: auto;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    /*padding: 0 15px;*/
+}
+footer p{
+    font-size: 0.7em;
+    letter-spacing: 0.1em;
+    margin-bottom: 0 !important;
+}
+footer a{
+    text-decoration: none;
+    color: #95999c;
+}
+
+footer a:hover{
+    color: white!important;
+}
